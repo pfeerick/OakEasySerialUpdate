@@ -1,5 +1,5 @@
 @echo off
-set /p comport="Enter COM Port of USB-Serial Adapter: "
+set /p comport="Enter COM Port of your USB-Serial Adapter (ex: COM3): "
 echo Ensure Oak is attached as shown here and press a key: digistump.com/wiki/oak/serialupdate
 pause
 echo Updating...
